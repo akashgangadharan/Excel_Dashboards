@@ -1,2 +1,2 @@
 # Excel_Dashboards
-![Dashboard](Dashboard.png)
+![](Dashboard.png)
