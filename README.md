@@ -1,2 +1,2 @@
 # Excel_Dashboards
-![Excel Dashboard](https://raw.githubusercontent.com/akashgangadharan/Excel_Dashboards/Dashboard.png)
+![Excel Dashboard](https://github.com/akashgangadharan/Excel_Dashboards/blob/main/Dashboard.PNG)
