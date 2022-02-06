@@ -4,4 +4,4 @@ Kindly reach out to me on [linkedin.com/in/akash-gangadharan](https://www.linked
 
 ![Excel Dashboard](https://github.com/akashgangadharan/Excel_Dashboards/blob/main/Dashboard.PNG)
 
-![Excel Dashboard](https://github.com/akashgangadharan/Excel_Dashboards/blob/main/Dataset.PNG)
+![Excel Dashboard](https://github.com/akashgangadharan/Excel_Dashboards/blob/main/dataset.PNG)
