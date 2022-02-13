@@ -1,7 +1,9 @@
 
 # 📊📈📉Sales Performaance Dashboard
 
-This is an Interactive Excel Dashboard. It is created on a Dummy Data.
+This is an Interactive Excel Dashboard. It not only looks good but also provides lot of insights.<br />
+It is created on a Dummy Data.
+
 Please reach out to me if you need password to edit the file.
 
 Also don't forget to upvote if you like my work!
