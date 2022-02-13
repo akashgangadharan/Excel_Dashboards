@@ -9,7 +9,7 @@ Also don't forget to upvote if you like my work!
 
 ## Demo
 
-Insert gif or link to demo
+![ezgif com-gif-maker(2)](https://user-images.githubusercontent.com/56498328/153748060-e95f9e43-6964-4739-9f7a-2de1f085dd29.gif)
 
 
 # Hi, I'm Akash! 👋
