@@ -1,0 +1,33 @@
+
+# 📊📈📉Sales Performaance Dashboard
+
+This is an Interactive Excel Dashboard. It is created on a Dummy Data.
+Please reach out to me if you need password to edit the file.
+
+Also don't forget to upvote if you like my work!
+
+
+## Demo
+
+Insert gif or link to demo
+
+
+# Hi, I'm Akash! 👋
+
+
+## 🚀 About Me
+I'm a Machine Learning Enthusiast.
+
+Please upvote if you like my work!
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-gangadharan/)
+[![href](https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.gangadharan94@gmail.com)
+
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
