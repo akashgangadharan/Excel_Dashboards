@@ -1,5 +1,5 @@
 
-# 📊📈📉Sales Performaance Dashboard
+# 📊📈📉Sales Performance Dashboard
 
 This is an Interactive Excel Dashboard. It not only looks good but also provides lot of insights.<br />
 The reason I chose Excel because it comes already installed in your machine. <br />
